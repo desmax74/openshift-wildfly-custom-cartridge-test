@@ -106,4 +106,4 @@ Endpoints:
   Private-Port: 9990
 Additional-Control-Actions:
 - threaddump
-Source-Url: https://github.com/desmax74/openshift-wildfly-cartridge/archive/master.zip
+Source-Url: https://github.com/desmax74/openshift-wildfly-cartridge-test/archive/master.zip
